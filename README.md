@@ -5,6 +5,6 @@
 
 ---
 
-### 🛠 Tech Stack
+### 📖 About Me
 - 💻 Coding with passion and precision.
 - 🖋 Writing clean, maintainable, and elegant code.
