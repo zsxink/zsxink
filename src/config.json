@@ -1,7 +1,7 @@
 {
   "site": {
-    "url": "https://zsxink.top",
-    "title": "zsxink-blog",
+    "url": "https://zsxink.github.io",
+    "title": "小先的博客",
     "description": "记录思考、学习、分享。",
     "keywords": "zsxink,blog,博客",
     "lang": "zh-CN",
@@ -11,7 +11,7 @@
   "author": {
     "name": "zsxink",
     "twitterId": "@zsxink",
-    "avatar": "https://condingxiaoxian-1252802229.cos.ap-guangzhou.myqcloud.com/img/199716679.jpg"    
+    "avatar": "https://condingxiaoxian-1252802229.cos.ap-guangzhou.myqcloud.com/img/199716679.jpg"
   },
   "hero": {
     "name": "zsxink",
@@ -92,7 +92,7 @@
     "startTime": "2026-04-01T00:00:00Z"
   },
   "waline": {
-    "serverURL": "https://zsxink.top"
+    "serverURL": "https://zsxink.github.io"
   },
   "sponsor": {
     "wechat": "https://object.lxchapu.com/bed%2F2024%2F0507_6e3e8f73df2d4e6d.webp"
